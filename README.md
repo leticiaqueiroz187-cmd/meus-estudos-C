@@ -1,7 +1,8 @@
 Este repositório contém meus exercicíos de introdução a programação, lógica de programação e fundamentos da linguagem C.
 
 Conteúdos estudados:
-Variáveis
+
+- Variáveis
 - Entrada e saída de dados
 - Operadores matemáticos
 - Condições (`if`, `else`)
