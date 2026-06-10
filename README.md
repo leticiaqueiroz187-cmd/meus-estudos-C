@@ -1,4 +1,4 @@
-Este repositório contém meus exercicíos de introdução a programação, lógica de programação e fundamentos da linguagem C.
+Este repositório contém meus exercicíos de introdução a programação, lógica de programação e fundamentos da linguagem C durante as aulas da faculdade.
 
 Conteúdos estudados:
 
