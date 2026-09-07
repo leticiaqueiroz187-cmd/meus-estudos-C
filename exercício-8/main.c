@@ -12,4 +12,6 @@ int main (){
     }
     else {
         printf("Reprovado");}
-    }
+
+    return 0;
+}
